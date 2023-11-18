@@ -3,6 +3,8 @@
 services:
   composer:
     image: composer
-    command: tail -f /dev/null
+    command: php artisan serve --host 0.0.0.0 --port 8000 -vvv
     volumes:
       - ".:/app"
+    ports:
+      - "8000:8000"
