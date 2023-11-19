@@ -4,7 +4,7 @@
 - Aplikacja dla biznesu
 - Społeczność osób pełnych empatii
 
-Helpmi to platforma mająca na celu ujednolicenie sposobu wzywania asystentów do osób niepełnosprawnych np. na stacja benzynowych oraz innych obiektach handlowo-usługowych.
+Helpmi to platforma mająca na celu ujednolicenie sposobu wzywania asystentów do osób niepełnosprawnych np. na stacja benzynowych oraz innych obiektach handlowo-usługowych. Nieistniejące do tej pory proste i skuteczne rozwiązanie problemu.
 
 ## Niepełnosprawni
 * Ujednolicona, ogólnopolska procedura wzywania asystentów.
@@ -18,6 +18,12 @@ Helpmi to platforma mająca na celu ujednolicenie sposobu wzywania asystentów d
 ## Wolontariusze
 * Możliwość wsparcia osób niepełnosprawnych z okolicy.
 * Możliwość udziału w wydarzeniach organizowanych przez partnerskie organizacje pozarządowe.
+
+## Jaki problem rozwiązujemy?
+
+Aktualnie w Polsce nie istnieje ujednolicony i skuteczny sposób wzywania asystentów do osób niepełnosprawnych np. na stacja benzynowych. Trzykrotne użycie sygnału dźwiękowego, które jest obowiązującym standardem nie jest skuteczne.
+
+Nasza platforma zapewnia ujednolicenie procedury, zwiększenie inkluzji osób niepełnosprawnych w obiektach handlowo-usługowych a także daje możliwość zbudowania wspaniałej społeczności wolontariuszy.
 
 ## Jak to działa?
 Asystenci (pracownicy obiektów handlowo-usługowych lub wolontariusze) posiadają aplikację obsługującą powiadomienia od osób niepełnosprawnych. Możliwość zintegrowania systemów informatycznych klientów biznesowych z platformą Helpmi.
